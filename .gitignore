@@ -44,6 +44,8 @@ mapping.txt
 .navigation/
 lint/
 
+
+
 # ───────────────────────────── IDE — VS Code ──────────────────────────────────
 .vscode/
 
