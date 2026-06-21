@@ -1,0 +1,16 @@
+# Copy this file to `local.properties` and fill in your own values.
+# `local.properties` is git-ignored and must never be committed.
+
+# Android SDK location (set automatically by Android Studio on first open).
+# Windows example:
+sdk.dir=C\:\\Users\\<you>\\AppData\\Local\\Android\\Sdk
+# macOS/Linux example:
+# sdk.dir=/Users/<you>/Library/Android/sdk
+
+# Optional — Google Cloud Speech-to-Text key for real watch ASR.
+# Leave blank to fall back to the offline stub transcriber.
+GOOGLE_SPEECH_API_KEY=
+
+# Optional — Google Generative Language key (text-embedding-004) for real
+# semantic matching. Leave blank to use the offline lexical embedding.
+GOOGLE_EMBEDDING_API_KEY=

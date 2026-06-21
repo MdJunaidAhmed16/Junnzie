@@ -1,0 +1,3 @@
+-keep class com.junnz.shared.domain.** { *; }
+-keep class com.junnz.shared.ipc.** { *; }
+-keepattributes *Annotation*

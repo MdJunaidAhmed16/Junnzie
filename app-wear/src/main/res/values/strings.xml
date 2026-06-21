@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Junnz</string>
+    <string name="capture_label">Record Reminder</string>
+    <string name="tile_label">Junnz Reminders</string>
+</resources>
