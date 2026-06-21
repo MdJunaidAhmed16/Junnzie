@@ -27,17 +27,31 @@ A spoken sentence like *“remind me to buy cucumber when I open Blinkit”* is 
 
 ---
 
-## 📱 Phone — the intelligence dashboard
+## 📱 Phone  the intelligence dashboard
 
-![Phone screens](docs/screenshots/phone-flow.png)
+<img
+  width="1672"
+  height="941"
+  alt="Phone screens"
+  src="https://github.com/user-attachments/assets/a9d00cd6-a6e5-47e0-bb51-f5b080e96d6f"
+/>
 
-<div align="center"><sub><b>Home / Smart Reminders</b> · <b>Create Reminder</b> · <b>Context Reminder Overlay</b> · <b>Nearby Suggestion / Explore</b></sub></div>
+<div align="center">
+  <sub><b>Home / Smart Reminders</b> · <b>Create Reminder</b> · <b>Context Reminder Overlay</b> · <b>Nearby Suggestion / Explore</b></sub>
+</div>
 
-## ⌚ Wear OS — the quick-capture companion
+## ⌚ Wear OS  the quick-capture companion
 
-![Wear OS screens](docs/screenshots/wear-flow.png)
+<img
+  width="1672"
+  height="941"
+  alt="Wear OS screens"
+  src="https://github.com/user-attachments/assets/de342081-14e2-4716-92b5-aae39f074f9b"
+/>
 
-<div align="center"><sub><b>Watch Home</b> · <b>Voice Capture</b> · <b>Smart Parsing</b> · <b>Triggered Reminder</b> · <b>Nearby Suggestion</b></sub></div>
+<div align="center">
+  <sub><b>Watch Home</b> · <b>Voice Capture</b> · <b>Smart Parsing</b> · <b>Triggered Reminder</b> · <b>Nearby Suggestion</b></sub>
+</div>
 
 ---
 
